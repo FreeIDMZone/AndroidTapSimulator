@@ -47,4 +47,4 @@ Then run an example
 ```bash
 python draw_star.py
 ```
-[!Youtube Video(http://img.youtube.com/vi/1yUhBQSPtzD0tmhqLfHI6w/0.jpg)](https://www.youtube.com/watch?v=kQ-1bTO8W3E)
+[ ![Image](http://img.youtube.com/vi/kQ-1bTO8W3E/0.jpg) ](https://www.youtube.com/watch?v=kQ-1bTO8W3E)
